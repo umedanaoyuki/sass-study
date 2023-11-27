@@ -4,6 +4,17 @@
   background-color: red;
 }
 
+.btnbtn, .btnbtn-blue {
+  display: inline-block;
+  padding: 20px 40px;
+  color: deeppink;
+  background: blue;
+}
+
+.btnbtn-blue {
+  background: green;
+}
+
 .area_article {
   padding: 30px;
 }
