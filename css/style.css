@@ -1,6 +1,8 @@
-h1 {
-  font-weight: bold;
-  color: rebeccapurple;
+.area_article {
+  padding: 30px;
+}
+.area_article .image {
+  height: 200px;
 }
 
 /*# sourceMappingURL=style.css.map */
