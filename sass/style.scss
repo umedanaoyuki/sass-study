@@ -13,3 +13,13 @@
     }
   }
 }
+
+.btn {
+  color: pink;
+  background: #000;
+  padding: 10px;
+  &:hover {
+    background: aqua;
+  }
+}
+

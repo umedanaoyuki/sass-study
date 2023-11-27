@@ -4,5 +4,13 @@
 .area_article .image {
   height: 200px;
 }
+.btn {
+  color: pink;
+  background: #000;
+  padding: 10px;
+}
+.btn:hover {
+  background: aqua;
+}
 
 /*# sourceMappingURL=style.css.map */
