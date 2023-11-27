@@ -1,3 +1,13 @@
+
+$size: 100px;
+
+.box {
+  width: $size;
+  height: $size;
+  background-color: red;
+}
+
+
 .area_article {
   padding: 30px;
   .image {
@@ -9,7 +19,6 @@
     .title {
     }
     .description {
-
     }
   }
 }
